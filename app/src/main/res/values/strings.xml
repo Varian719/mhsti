@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MHSTI</string>
+    <string name="grid">grid</string>
+    <string name="list">list</string>
+
+    <string name="nama">Varian Rhesa</string>
+    <string name="email">rhesa719@gmail.com</string>
+</resources>
